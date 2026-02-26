@@ -416,7 +416,7 @@ const Pricing = () => {
               </ul>
 
               <a 
-                href="https://pay.hotmart.com/J91552660E?off=xo970lul&checkoutMode=10"
+                href="https://pay.hotmart.com/U104661283U?checkoutMode=10"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full bg-emerald-600 text-white py-5 rounded-2xl text-xl font-bold hover:bg-emerald-700 transition-all shadow-xl shadow-emerald-200 flex items-center justify-center gap-3 mb-6"
